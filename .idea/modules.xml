@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CronetCodelab.iml" filepath="$PROJECT_DIR$/.idea/modules/CronetCodelab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/base/CronetCodelab.base.iml" filepath="$PROJECT_DIR$/.idea/modules/base/CronetCodelab.base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/base/CronetCodelab.base.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/base/CronetCodelab.base.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/base/CronetCodelab.base.main.iml" filepath="$PROJECT_DIR$/.idea/modules/base/CronetCodelab.base.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/base/CronetCodelab.base.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/base/CronetCodelab.base.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/solution/CronetCodelab.solution.iml" filepath="$PROJECT_DIR$/.idea/modules/solution/CronetCodelab.solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/solution/CronetCodelab.solution.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/solution/CronetCodelab.solution.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/solution/CronetCodelab.solution.main.iml" filepath="$PROJECT_DIR$/.idea/modules/solution/CronetCodelab.solution.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/solution/CronetCodelab.solution.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/solution/CronetCodelab.solution.unitTest.iml" />
+    </modules>
+  </component>
+</project>
